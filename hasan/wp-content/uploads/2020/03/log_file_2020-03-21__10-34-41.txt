@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/hasan
+Data file = C:\xampp\htdocs\hasan/wp-content/uploads/2020/03/demo-content-import-file_2020-03-21__10-34-41.xml
+Widget file = C:\xampp\htdocs\hasan/wp-content/uploads/2020/03/demo-widgets-import-file_2020-03-21__10-34-41.json
+Customizer file = C:\xampp\htdocs\hasan/wp-content/uploads/2020/03/demo-customizer-import-file_2020-03-21__10-34-41.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Imported
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Text - Contact us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Quick links - Imported
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
